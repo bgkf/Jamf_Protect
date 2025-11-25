@@ -1,7 +1,7 @@
 ### Unified Log Filters ###
 
 TCC Modified.<br>
-<img width="563" height="525" alt="Screenshot 2025-11-24 at 3 08 52 PM" src="https://github.com/user-attachments/assets/c8dfde38-71f0-4cf0-9125-d535891175ca" />
+<img width="580" alt="Screenshot 2025-11-24 at 8 19 21 PM" src="https://github.com/user-attachments/assets/59962dba-b3cc-426a-86a5-141289f15e1c" />
 <br><br>
 New user account added.<br>
 <img width="578" height="405" alt="Screenshot 2025-09-30 at 4 45 32 PM" src="https://github.com/user-attachments/assets/76aca344-6a0e-45f0-bd32-d60360bea0b8" />
